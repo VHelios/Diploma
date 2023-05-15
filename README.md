@@ -1,5 +1,5 @@
 # My Final year Project 
-
+## Partners: Lukas Teischl, Christoph Hausberger
 ## 2023-05-15
 
 Today we did: 
