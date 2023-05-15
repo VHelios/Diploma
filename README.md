@@ -4,7 +4,7 @@
 
 Today we did: 
 
--learn to log in into gitHub
--learn how to do basic Markdown
--our very first git commit
+- learn to log in into gitHub
+- learn how to do basic Markdown
+- our very first git commit
 
