@@ -17,7 +17,7 @@ Today we did:
   Start of the 5th Grade:
 
 
-### 27.09.2023
+### 2023-9-28
 
 - Working on the Design and realization of the housing
 - Buying the Parts(Raspberry Pico/Arduino Uno), deciding which to use
